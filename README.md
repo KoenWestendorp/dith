@@ -1,7 +1,8 @@
 # dith
 
 ![Sphere, dithered.](images/sphere_smol_dith.png)
-([pre-dithering](images/sphere_smol.png))
+
+<sub>([pre-dithering](images/sphere_smol.png))</sub>
 
 Teeny tiny [Floyd-Steinberg dithering](https://en.wikipedia.org/wiki/Floyd%E2%80%93Steinberg_dithering).
 
